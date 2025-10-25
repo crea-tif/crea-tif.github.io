@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.creatif.edufunwordsearch",
+      "sha256_cert_fingerprints": [
+        "FC:5B:4A:50:68:5E:2D:FE:0C:1B:94:FC:3E:68:5A:3E:F1:87:1F:D5:C5:43:42:9"
+      ]
+    }
+  }
+]
